@@ -10,3 +10,8 @@
 - Driven by an **unwavering enthusiasm** for **learning and self-improvement**, I dedicated my **personal time** to meticulously **develop and refine this Full Stack Application**.
 ## ⚙️Technologies, Requirements and Software Tools
 ### Programming and Scripting Languages
+- Java
+- JavaScript
+- HTML
+- CSS
+- JSON

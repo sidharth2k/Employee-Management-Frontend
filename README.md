@@ -16,3 +16,6 @@
 - CSS
 - JSON
 ### Frameworks & Libraries
+- Spring Boot - **Backend**
+- React - **Frontend**
+- Bootstrap - **Frontend & Backend**

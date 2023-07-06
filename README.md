@@ -9,6 +9,7 @@
 - The main objective of this project was to create a thorough **Full Stack Application** using **Spring Boot & MySQL** as the **backend** and **React** as the **frontend**.
 - Driven by an **unwavering enthusiasm** for **learning and self-improvement**, I dedicated my **personal time** to meticulously **develop and refine this Full Stack Application**.
 ## ⚙️Technologies, Requirements and Software Tools
+- Requirements listed below are for the **frontend and backend**.
 ### Programming and Scripting Languages
 - Java
 - JavaScript
@@ -26,4 +27,4 @@
 - **MySQLWorkbench** played a role where the **backend** relied on this technology to **store user information**.
 - **DataGrip** was also used to support the **backend** in storing user information.
 - **Postman** was used to **test PUT, GET, POST and DELETE requests to the database**.
-## ✏️Design - Backend
+## ✏️Design - Frontend

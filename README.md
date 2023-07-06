@@ -20,4 +20,5 @@
 - React - **Frontend**
 - Bootstrap - **Frontend & Backend**
 ### npm Requirements (React)
-
+- nmp axios
+- npm react-router-dom

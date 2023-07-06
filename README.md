@@ -29,4 +29,5 @@
 - **Postman** was used to **test PUT, GET, POST and DELETE requests to the database**.
 ## ✏️Design - Frontend
 ### Frontend Technology Stack
-- The **frontend user interface** of the application was built using **React**, allowing users to **interact and utilise** the application. Additionally, **React** was employed to **retrieve data from the backend and present it on the frontend for user visibility**.
+#### React & npm Packages
+

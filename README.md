@@ -52,14 +52,14 @@
 <a name="demo"></a>
 ## Application Screenshots
 ### Home Page 
-<img width="800" alt="Screenshot 2023-07-06 at 9 54 06 pm" src="https://github.com/Saad1929/Employee-Management-Front-end/assets/108022733/86f9c3fa-f5d9-419a-bd64-418930fd2729">
+<img width="800" alt="Home Page" src="https://github.com/Saad1929/Employee-Management-Frontend/assets/108022733/84112713-c760-45ed-a93c-8aa609de9f96">
 
 ### Register User Page
-<img width="800" alt="Register User Page" src="https://github.com/Saad1929/Employee-Management-Front-end/assets/108022733/a8cdec2c-90fd-47d8-9362-a374a113d544">
+<img width="800" alt="Register User Page" src="https://github.com/Saad1929/Employee-Management-Frontend/assets/108022733/56173200-bcc1-4641-8d5b-7e75c6dae819">
 
 ### View User Details Page
-<img width="800" alt="View User Details Page" src="https://github.com/Saad1929/Employee-Management-Front-end/assets/108022733/fd92af5f-74d2-4b2f-ac69-c0c1bfb36c09">
+<img width="800" alt="View User Details Page" src="https://github.com/Saad1929/Employee-Management-Frontend/assets/108022733/7a067491-0848-4797-add6-4cb4281b767d">
 
 ### Edit User Page
-<img width="800" alt="Edit User Page" src="https://github.com/Saad1929/Employee-Management-Front-end/assets/108022733/c6917672-8b5b-46a1-8176-a39604e1ead1">
+<img width="800" alt="Edit User Page" src="https://github.com/Saad1929/Employee-Management-Frontend/assets/108022733/8f97f8af-a502-4ec7-84e6-ba85706fc340">
 

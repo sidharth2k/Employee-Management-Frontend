@@ -23,3 +23,6 @@
 - nmp axios
 - npm react-router-dom
 ### Other Software Tools
+- **MySQLWorkbench** played a role where the **backend** relied on this technology to **store user information**.
+- **DataGrip** was also used to support the **backend** in storing user information.
+- **Postman** was used to **test PUT, GET, POST and DELETE requests to the database**.

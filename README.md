@@ -36,6 +36,7 @@
 - **MySQLWorkbench** played a role where the **back-end** relied on this technology to **store user information**.
 - **DataGrip** was also used to support the **back-end** in storing user information.
 - **Postman** was used to **test PUT, GET, POST and DELETE requests to the database**.
+<a name="design"></a>
 ## ✏️Design - Front-end
 ### Front-end Technology Stack
 #### React & npm Packages

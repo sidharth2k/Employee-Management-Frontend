@@ -19,3 +19,5 @@
 - Spring Boot - **Backend**
 - React - **Frontend**
 - Bootstrap - **Frontend & Backend**
+### npm Requirements (React)
+

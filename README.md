@@ -43,3 +43,4 @@
 <img width="800" alt="Screenshot 2023-07-06 at 9 54 06 pm" src="https://github.com/Saad1929/Employee-Management-Frontend/assets/108022733/86f9c3fa-f5d9-419a-bd64-418930fd2729">
 
 ### Register User Page
+<img width="800" alt="Register User Page" src="https://github.com/Saad1929/Employee-Management-Frontend/assets/108022733/a8cdec2c-90fd-47d8-9362-a374a113d544">

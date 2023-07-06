@@ -41,3 +41,5 @@
 ## Application Screenshots
 ### Home Page
 <img width="800" alt="Screenshot 2023-07-06 at 9 54 06 pm" src="https://github.com/Saad1929/Employee-Management-Frontend/assets/108022733/86f9c3fa-f5d9-419a-bd64-418930fd2729">
+
+### Register User Page

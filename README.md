@@ -46,4 +46,5 @@
 <img width="800" alt="Register User Page" src="https://github.com/Saad1929/Employee-Management-Frontend/assets/108022733/a8cdec2c-90fd-47d8-9362-a374a113d544">
 
 ### View User Details Page
+<img width="800" alt="View User Details Page" src="https://github.com/Saad1929/Employee-Management-Frontend/assets/108022733/fd92af5f-74d2-4b2f-ac69-c0c1bfb36c09">
 

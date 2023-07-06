@@ -36,3 +36,4 @@
 - The **npm package react-router-dom** was used to provide components including **`<BrowserRouter>`, `<Switch>`, `<Route>`, and `<Link>`** to handle **client-side routing, rendering different components based on the URL path, and creating navigation links between different pages within the application**.
 #### Bootstrap
 - **Bootstrap** is a **frontend framework** for building **responsive web pages and applications, offering pre-built components and styles**.
+- For this project, **Bootstrap** was employed to **facilitate the construction of the navigation bar**. This feature enables users to **conveniently access** their employee information within the application.

@@ -32,3 +32,4 @@
 #### React & npm Packages
 - The **frontend user interface** of the application was built using **React**, allowing users to **interact and utilise** the application. Additionally, **React** was employed to **retrieve data from the backend and present it on the frontend for user visibility**.
 - The **npm axios package** was used to make **HTTP requests, supporting promises, interceptors, and JSON data transformation**.
+- More specifically, the **frontend** user interface, built with **React**, utilises **Axios** to enable users to perform **PUT, GET, POST, and DELETE operations** on their information. These actions are **reflected in real-time, updating the corresponding data on the backend**.

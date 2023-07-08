@@ -13,7 +13,7 @@
 - **CREATE, READ, UPDATE and DELETE (CRUD)** appliction.
 - This repository contains the **front-end** of a **Full Stack** **personal project**, which is **responsible for displaying employee information from the back-end** and is implemented using **React** which serves as the **user interface** for the **user**.
 - This application allows users to **view, add, remove, and edit** individuals within their management system.
-- - This project is now **fully utilised** by my **community's sports club**.
+- - This project is now **fully utilised** by my **community's sports club**. 
 <a name="aims"></a>
 ## 🎯Aims and Motivation
 - The main objective of this project was to create a thorough **Full Stack Application** using **Spring Boot & MySQL** as the **back-end** and **React** as the **front-end**.

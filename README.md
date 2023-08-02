@@ -53,13 +53,15 @@
 <a name="demo"></a>
 ## Application Screenshots
 ### Home Page 
-<img width="800" alt="Home Page" src="https://github.com/Saad1929/Employee-Management-Frontend/assets/108022733/84112713-c760-45ed-a93c-8aa609de9f96">
+<img width="1440" alt="Home Page" src="https://github.com/Saad1929/Employee-Management-Frontend/assets/108022733/72a9d9bc-72d9-4fdd-8831-aaca7be66f5b">
+
 
 ### Register User Page
-<img width="800" alt="Register User Page" src="https://github.com/Saad1929/Employee-Management-Frontend/assets/108022733/56173200-bcc1-4641-8d5b-7e75c6dae819">
+<img width="1440" alt="Register User Page" src="https://github.com/Saad1929/Employee-Management-Frontend/assets/108022733/df315549-767e-4ceb-81d4-28027ab0afb1">
+
 
 ### View User Details Page
-<img width="800" alt="View User Details Page" src="https://github.com/Saad1929/Employee-Management-Frontend/assets/108022733/7a067491-0848-4797-add6-4cb4281b767d">
+
 
 ### Edit User Page
 <img width="800" alt="Edit User Page" src="https://github.com/Saad1929/Employee-Management-Frontend/assets/108022733/8f97f8af-a502-4ec7-84e6-ba85706fc340">
